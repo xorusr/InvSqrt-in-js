@@ -9,6 +9,6 @@ function invSqrt(x) {
   y = y * (1.5 - 0.5 * x * i * i);
   return y; //💀👀☠️
 }
-//conact: 
+//contact: 
 //xorusr@gmail.com
 //xoreduser@gmail.com
